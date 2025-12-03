@@ -1,0 +1,15 @@
+{
+  "appId": "com.example.chatapp",
+  "appName": "ChatApp",
+  "webDir": "dist",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "173685988048-fmo4eqgoocmjnijcnnch68q8o5cgc4hm.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="title_activity_main">ChatApp</string>
+    <string name="package_name">com.example.chatapp</string>
+    <string name="custom_url_scheme">com.example.chatapp</string>
+    <string name="server_client_id">173685988048-fmo4eqgoocmjnijcnnch68q8o5cgc4hm.apps.googleusercontent.com</string>
+</resources>
